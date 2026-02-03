@@ -1,6 +1,6 @@
 # Hi, I'm David 👋
 
-> I am Ph.D. candidate at the University of Missouri–Columbia. I build deep learning-based computer vision models for remote sensing applications with an emphasis on semanic segmentation.
+> I am a Ph.D. candidate at the University of Missouri–Columbia. I build deep learning-based computer vision models for remote sensing applications with an emphasis on semanic segmentation.
 
 [![Website](https://img.shields.io/badge/Website-000?style=flat\&logo=About.me\&logoColor=white)](https://davidhuangal.bearblog.dev/)
 [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat\&logo=googlescholar\&logoColor=white)](https://scholar.google.com/citations?user=C8obXZcAAAAJ&hl=en&oi=ao)
