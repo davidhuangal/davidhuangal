@@ -1,6 +1,6 @@
 # Hi 👋, I'm David Huangal, Ph.D.
 
-> I am a AI/ML researcher the University of Missouri–Columbia.
+> I am an AI/ML researcher the University of Missouri–Columbia.
 
 [![Website](https://img.shields.io/badge/Website-000?style=flat\&logo=About.me\&logoColor=white)](https://davidhuangal.bearblog.dev/)
 [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat\&logo=googlescholar\&logoColor=white)](https://scholar.google.com/citations?user=C8obXZcAAAAJ&hl=en&oi=ao)
